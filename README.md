@@ -1,6 +1,6 @@
 # ARCHÉ
 
-An editorial-style architecture portfolio built with React, TypeScript and Vite.
+An editorial-style architecture portfolio, built with React, TypeScript and Vite.
 
 [Live demo](https://cool-croquembouche-c7a5d7.netlify.app/)
 
@@ -18,16 +18,16 @@ npm run build
 npm run preview
 ```
 
-Deploy the `dist` directory to a static hosting provider. Client-side routes are supported using `public/_redirects`.
+Deploy the `dist` directory to a static host. A catch-all redirect is provided in `public/_redirects` for client-side routing.
 
 ## Features
 
 - Responsive portfolio with eight project studies
-- Filterable projects and photography galleries
-- Photography provenance and credits
+- Filterable project index and image galleries
+- Photography credits and source references
 - Editorial journal and studio pages
-- Accessible navigation and reduced-motion support
+- Accessible navigation, modal gallery and reduced-motion support
 
 ## Notes
 
-ARCHÉ is a fictional architecture portfolio concept. Photographs depict real buildings by independent architects and are shown as references. Third-party image rights have not been cleared for redistribution. The contact form is a demonstration and does not transmit messages.
+ARCHÉ is a fictional architecture portfolio concept. Photographs depict real buildings by other architectural practices and are shown as references. Third-party image rights have not been cleared for redistribution. The contact form is a demonstration and does not transmit messages.

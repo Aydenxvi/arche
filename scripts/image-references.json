@@ -1,0 +1,542 @@
+[
+  {
+    "name": "casa-vela-01",
+    "section": "Casa Vela",
+    "ratio": "16:9",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/v2/t%3A0%2Cl%3A160%2Ccw%3A2560%2Cch%3A1920%2Cq%3A80%2Cw%3A2560/f5v7Zwoc3p6387mYVbeanj.jpeg",
+    "source_url": "https://www.wallpaper.com/architecture/port-de-la-selva-house-maria-castello-jose-antonio-molina-spain",
+    "description": "Дом на скалистом берегу Испании, море и бетон",
+    "match": "Реальный объект в Испании; название другое",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "casa-vela-02",
+    "section": "Casa Vela",
+    "ratio": "4:5",
+    "image_url": "https://www.designboom.com/twitterimages/uploads/2022/02/maria-castello-port-de-la-selva-spain-designboom-FB.jpg",
+    "source_url": "https://www.designboom.com/architecture/maria-castello-port-de-la-selva-house-spain-02-19-2022/",
+    "description": "Бетонная масса, боковая сторона и склон",
+    "match": "Тот же реальный объект, другая фотография",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "casa-vela-03",
+    "section": "Casa Vela",
+    "ratio": "1:1",
+    "image_url": "https://images.mindtrip.ai/attractions/6dba/e1cf/467a/c7df/73e6/d074/b498/b14c",
+    "source_url": "https://mindtrip.ai/attraction/ochi-cho-kochi/mt-yokogura-natural-forest-museum/at-SVGQ0eco",
+    "description": "Отражающий бассейн между бетонными объёмами",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "casa-vela-04",
+    "section": "Casa Vela",
+    "ratio": "3:2",
+    "image_url": "https://archinect.gumlet.io/uploads/26/260135927ff13a545bbe28d942d981df.jpg?auto=compress%2Cformat",
+    "source_url": "https://archinect.com/firms/project/106399/hale-mau-u/150263289",
+    "description": "Крупный план бетона с швами опалубки, соприкосновение с природным камнем",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "casa-vela-05",
+    "section": "Casa Vela",
+    "ratio": "4:5",
+    "image_url": "https://www.stylepark.com/assets/transformations/galleries/_1020x800_fit_center-center_90_none/B_OOAK_Yorgos-Kordakis_24_stylepark.jpg",
+    "source_url": "https://www.stylepark.com/en/news/ooak-architects-patio-house-karpathos",
+    "description": "Небольшой объём на каменистом склоне",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "casa-vela-06",
+    "section": "Casa Vela",
+    "ratio": "16:9",
+    "image_url": "https://aihkcdnstoragep01.blob.core.windows.net/pgl-release/Images/ArticleImages/19/19991.jpg",
+    "source_url": "https://www.propgoluxury.com/en/propertynews/malibu/6126-concrete-beach-house-tadao-ando.html",
+    "description": "Проход из бетонного дома к открытой террасе с морем",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "monolith-house-01",
+    "section": "Monolith House",
+    "ratio": "16:9",
+    "image_url": "https://detail-cdn.s3.eu-central-1.amazonaws.com/media/catalog/product/A/n/Angela-Deuber-Architects-wohnhaus-graubunden-01-Schaub_Stierli_Fotografie.jpg?image-type=image&store=de_de",
+    "source_url": "https://www.detail.de/de_de/raumkontinuum-in-sichtbeton-wohnhaus-in-graubuenden",
+    "description": "Бетонные объёмы и Альпы, реальный дом в Швейцарии",
+    "match": "Реальный объект в Швейцарии; название другое",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "monolith-house-02",
+    "section": "Monolith House",
+    "ratio": "4:5",
+    "image_url": "https://3.bp.blogspot.com/-udueOeB-yHQ/VaPY79LOlTI/AAAAAAACCYA/iOdjxvnZyPc/s1600/Carole%2BIselin%2BArchitektur%2B.%2BDetached%2Bhouse%2B.%2BL%25C3%25BC%2B%25281%2529.jpg",
+    "source_url": "https://afasiaarchzine.com/2015/07/carole-iselin-architektur/",
+    "description": "Глубокие оконные проёмы в массивной бетонной стене",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "monolith-house-03",
+    "section": "Monolith House",
+    "ratio": "1:1",
+    "image_url": "https://i.pinimg.com/originals/4c/58/89/4c588986d52cef2bab1381a39fb0e22d.jpg",
+    "source_url": "https://www.pinterest.com/pin/128774870575796764/",
+    "description": "Крупно: грубый бетон, выраженные горизонтальные швы",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "monolith-house-04",
+    "section": "Monolith House",
+    "ratio": "3:2",
+    "image_url": "https://images.unsplash.com/photo-1741524915320-8fee76e41424?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHx8&ixlib=rb-4.1.0&q=60&w=3000",
+    "source_url": "https://unsplash.com/fr/photos/escalier-en-beton-avec-ombre-et-lumiere-jHEcgLUfxxQ",
+    "description": "Бетонная лестница, резкая косая полоска вечернего солнца",
+    "match": "Фото с Unsplash; проверить лицензию на карточке",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "monolith-house-05",
+    "section": "Monolith House",
+    "ratio": "4:5",
+    "image_url": "https://assets.world-architects.com/images/Projects/31/91/13/7ed158fa7e8c4753822a32bffbbadce5/7ed158fa7e8c4753822a32bffbbadce5.8945f03a.jpg",
+    "source_url": "https://www.german-architects.com/fa/benjamin-von-pidoll-architektur-koln/project/haus-p-4",
+    "description": "Световой проём и площадка в бетонном интерьере",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "monolith-house-06",
+    "section": "Monolith House",
+    "ratio": "16:9",
+    "image_url": "https://tmhmedia.themodernhouse.com/uploads/2016/11/Carona_08w-950x633.jpg",
+    "source_url": "https://themodernhouse.com/journal/house-of-the-day-casa-bernasconi-by-luigi-snozzi",
+    "description": "Швейцарский бетонный дом снизу и лестница по склону",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "stillwater-residence-01",
+    "section": "Stillwater",
+    "ratio": "16:9",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/krbAb6kTR3b4Xk4TyDZZwK-1600-80.png",
+    "source_url": "https://www.wallpaper.com/architecture/residential/courtyard-house-scottish-coast-uk",
+    "description": "Низкий дом в Великобритании вокруг зеркального бассейна",
+    "match": "Реальный объект Великобритании; название другое",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "stillwater-residence-02",
+    "section": "Stillwater",
+    "ratio": "4:5",
+    "image_url": "https://static.designboom.com/wp-content/uploads/2019/08/jorn-utzon-can-lis-family-home-mallorca-13-818x545.jpg",
+    "source_url": "https://www.designboom.com/architecture/jorn-utzon-can-lis-family-home-mallorca-08-02-2019/",
+    "description": "Каменная колоннада двора, ритм колонн",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "stillwater-residence-03",
+    "section": "Stillwater",
+    "ratio": "1:1",
+    "image_url": "https://i.mooool.com/img/2024/09/Domus-Nova-Design-Directory-RosebankLandscaping-12.jpg?x-oss-process=style%2Flarge_",
+    "source_url": "https://mooool.com/en/calm-atmosphere-of-the-scene-tranquility.html",
+    "description": "Камень возле воды, мокрая текстура в архитектурном дворе",
+    "match": "Частичное совпадение: не макросъёмка",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "stillwater-residence-04",
+    "section": "Stillwater",
+    "ratio": "3:2",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/great-planes-sbypfusyeEnZgvaCYkRGhn-1280-80.jpg",
+    "source_url": "https://www.wallpaper.com/architecture/residential/meadow-house-strom-uk",
+    "description": "Тонкая горизонтальная линия кровли под небом",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "stillwater-residence-05",
+    "section": "Stillwater",
+    "ratio": "4:5",
+    "image_url": "https://architizer-prod.imgix.net/media/mediadata/uploads/1763508368195CASA_FUERA-6.jpg?auto=format%2Ccompress&cs=strip&q=60&w=1680",
+    "source_url": "https://architizer.com/projects/casa-afuera/",
+    "description": "Одиночный прямоугольный проём и зелень снаружи",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "stillwater-residence-06",
+    "section": "Stillwater",
+    "ratio": "16:9",
+    "image_url": "https://cdn.sanity.io/images/e1i1ex1t/production/07de257f8ff04ede0d21ed3709e89919e33b4918-4424x3615.jpg",
+    "source_url": "https://www.artnewspaper.fr/2024/09/24/kengo-kuma-signe-lextension-du-cam-centro-de-arte-moderna-gulbenkian-a-lisbonne",
+    "description": "Длинная крытая галерея с тёплым светом в синих сумерках",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "terra-pavilion-01",
+    "section": "Terra Pavilion",
+    "ratio": "16:9",
+    "image_url": "https://rammteck.com/storage/2080/rr_omarazzazy_Rammed_earth_exterior_exhibition_52f38869-9c17-4b20-9fb4-0b6de662d6f7.png",
+    "source_url": "https://rammteck.com/project/rammed-earth-outdoor-exhibition",
+    "description": "Павильон из земли, мощные ритмичные стены и вход",
+    "match": "Визуальный аналог; вероятно визуализация",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "terra-pavilion-02",
+    "section": "Terra Pavilion",
+    "ratio": "4:5",
+    "image_url": "https://architizer-prod.imgix.net/media/mediadata/uploads/155134702096614.jpg?auto=format%2Ccompress&cs=strip&q=60&w=1680",
+    "source_url": "https://architizer.com/projects/wooden-forest-medical-centre-for-mentally-disabled-people/",
+    "description": "Деревянные ламели навеса снизу",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "terra-pavilion-03",
+    "section": "Terra Pavilion",
+    "ratio": "1:1",
+    "image_url": "https://eu.chat-img.sintra.ai/c1bda243-9136-4871-9b2e-3d41f6b523a7/d4b9bfd5-1bbe-4c40-87a8-92e52c3eeea3/image.png?h=864&w=1184",
+    "source_url": "https://www.earthtowall.com/lehmbau-entdecken/stampflehm",
+    "description": "Крупный план утрамбованной земли, видимые цветные слои",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "terra-pavilion-04",
+    "section": "Terra Pavilion",
+    "ratio": "3:2",
+    "image_url": "https://oss.gooood.cn/uploads/2021/11/04-Herdade-da-Cardeira_EMBAIXADA.jpg",
+    "source_url": "https://www.gooood.cn/expansion-of-herdade-da-cardeira-winery-embaixada.htm",
+    "description": "Проём и вид на виноградник, Португалия",
+    "match": "Реальный объект в Португалии; название другое",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "terra-pavilion-05",
+    "section": "Terra Pavilion",
+    "ratio": "4:5",
+    "image_url": "https://storage.architecturecompetitions.com/upload/14.03.2023/b43a62019cbbe088a21ddd9c35c2773a.jpg",
+    "source_url": "https://architecturecompetitions.com/pre-3rd-win-interview",
+    "description": "Павильон из земли в полдень, глубокая жёсткая тень",
+    "match": "Концептуальная визуализация",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "terra-pavilion-06",
+    "section": "Terra Pavilion",
+    "ratio": "16:9",
+    "image_url": "https://images.divisare.com/images/c_limit%2Cf_auto%2Ch_2000%2Cq_auto%2Cw_3000/v1441105311/juyzw7dnjlwjrysryiuz/luigi-rosselli-edward-birch-the-great-wall-of-wa.jpg",
+    "source_url": "https://divisare.com/projects/297133-luigi-rosselli-edward-birch-the-great-wall-of-wa",
+    "description": "Земляные ступени, спуск и павильон",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "atelier-02-01",
+    "section": "Atelier 02",
+    "ratio": "16:9",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5b1a43b589c1722037f18202/02d04762-7345-4698-96de-6f4e068145f2/_MKO3687A%2Bcopy.jpg",
+    "source_url": "https://www.markandmarko.com/space",
+    "description": "Адаптивный промышленный зал с заводской кровлей",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "atelier-02-02",
+    "section": "Atelier 02",
+    "ratio": "4:5",
+    "image_url": "https://railgallery.wongm.com/albums/preston-workshops/F155_2433.jpg",
+    "source_url": "https://railgallery.wongm.com/preston-workshops/F155_2433.jpg.html",
+    "description": "Шедовая кровля и остекление снизу",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "atelier-02-03",
+    "section": "Atelier 02",
+    "ratio": "1:1",
+    "image_url": "https://www.ekentreprise.dk/CustomerData/Files/Images/Gallery/masned%C3%B8gade_29417/pj-3520_4889.jpg",
+    "source_url": "https://www.ekentreprise.dk/referencer/projekter/masnedoegade-22-23-koebenhavn-oe.aspx",
+    "description": "Косой свет на полу реконструированного копенгагенского лофта",
+    "match": "Реальный объект в Копенгагене; название другое",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "atelier-02-04",
+    "section": "Atelier 02",
+    "ratio": "3:2",
+    "image_url": "https://cdn.prod.website-files.com/633ec4301ad33184cce4e8e4/6388c1b22995f2243d7f4494_Klein_A45_SorenRoseStudio_BjarkeIngelsGroup_10.webp",
+    "source_url": "https://www.sorenrose.com/product/klein-a45",
+    "description": "Стык деревянного бруса и пробковой поверхности крупно",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "atelier-02-05",
+    "section": "Atelier 02",
+    "ratio": "4:5",
+    "image_url": "https://uni-blog.s3.amazonaws.com/14/5be43ec6-b241-4820-98ab-59ca89d51077/unieditorial2024-11-13T06-32-05-015795.png",
+    "source_url": "https://uni.xyz/journal/shanghai-minhang-squirrel-mountain-commu",
+    "description": "Деревянные мини-объёмы внутри промышленного здания",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "atelier-02-06",
+    "section": "Atelier 02",
+    "ratio": "16:9",
+    "image_url": "https://www.architectura.be/media/svohh2ja/foto2.jpg",
+    "source_url": "https://www.architectura.be/nl/projecten/pts-campus-boom/",
+    "description": "Большой рабочий зал с антресоли",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "the-atrium-01",
+    "section": "The Atrium",
+    "ratio": "16:9",
+    "image_url": "https://worldarchitecture.org/cdnimgfiles/extuploadc/10waclangeveldbuildingbypaulderuiter.jpg",
+    "source_url": "https://worldarchitecture.org/architecture-news/fhffc/untreated-tree-trunks-pass-through-the-central-staircase-of-the-langeveld-building-in-rotterdam",
+    "description": "Высокий атриум с колоннами, лестницей и зеленью",
+    "match": "Реальный объект Роттердама; название другое",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "the-atrium-02",
+    "section": "The Atrium",
+    "ratio": "4:5",
+    "image_url": "https://www.focchi.it/media/immagini/6173_n_TorriEur_g08.jpg",
+    "source_url": "https://www.focchi.it/ww/projects/torri-delleur",
+    "description": "Фасадная решётка стекла, алюминия и каменной облицовки",
+    "match": "Визуальный аналог; другой город",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "the-atrium-03",
+    "section": "The Atrium",
+    "ratio": "1:1",
+    "image_url": "https://dreessenwillemse.nl/upload/images/projects/0003/1210_DreessenWillemse-Rabo-1604.jpg",
+    "source_url": "https://dreessenwillemse.nl/projecten/details/project-rabobank-parkstad-limburg",
+    "description": "Свет в вертикальной пустоте атриума",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "the-atrium-04",
+    "section": "The Atrium",
+    "ratio": "3:2",
+    "image_url": "https://images.divisare.com/images/c_limit%2Cf_auto%2Ch_2000%2Cq_auto%2Cw_3000/v1468924085/akqeqoihggisadremhvx/oma-michael-moser-inigo-bujedo-aguirre-ossip-van-duivenbode-philippe-ruault-de-rotterdam.jpg",
+    "source_url": "https://divisare.com/projects/244831-oma-michael-moser-inigo-bujedo-aguirre-ossip-van-duivenbode-philippe-ruault-de-rotterdam",
+    "description": "Большая общественная лестница в Роттердаме",
+    "match": "Реальный объект Роттердама; название другое",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "the-atrium-05",
+    "section": "The Atrium",
+    "ratio": "4:5",
+    "image_url": "https://www.metalocus.es/sites/default/files/2024-10/metalocus_Bureau-de-Change_Nikos-Koulis-Athens_07.jpg",
+    "source_url": "https://www.metalocus.es/es/noticias/dialogo-entre-historia-y-modernidad-tienda-insignia-de-nikos-koulis-por-bureau-de-change",
+    "description": "Стык фактурного травертина и алюминиевого экрана",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "the-atrium-06",
+    "section": "The Atrium",
+    "ratio": "16:9",
+    "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/883c9d173976199.6499ca7c6a9f1.jpg",
+    "source_url": "https://www.behance.net/gallery/173976199/Casa-Paqueta-Aguirre-Arquitetura",
+    "description": "Вертикальные ламели дают полосатые солнечные тени",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "sora-house-01",
+    "section": "Sora House",
+    "ratio": "16:9",
+    "image_url": "https://housenote.jp/upload/photo/7/2147/273.jpg",
+    "source_url": "https://housenote.jp/interior/details/member_id/2147/photo_no/273/",
+    "description": "Компактный японский дом, тёмное обожжённое дерево",
+    "match": "Реальный объект в Японии; название другое",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "sora-house-02",
+    "section": "Sora House",
+    "ratio": "4:5",
+    "image_url": "https://images.divisare.com/images/f_auto%2Cq_auto%2Cw_auto/v1769443090/f0c450b1-3d98-449a-8a7e-d38647cc7a8c/akio-isshiki-architects-ben-hosking-house-in-saidera.jpg",
+    "source_url": "https://divisare.com/projects/549903-akio-isshiki-architects-ben-hosking-house-in-saidera",
+    "description": "Плоскость скатной крыши японского дома на фоне неба",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "sora-house-03",
+    "section": "Sora House",
+    "ratio": "1:1",
+    "image_url": "https://media.yatzer.com/s6_house_for_a_photographer_shiga_japan_form_kouichi_kimura_architects_yatzer-1-1400x2100.jpg",
+    "source_url": "https://www.yatzer.com/house-photographer-form-kimura-japan",
+    "description": "Свет из скрытого проёма скользит по белой штукатурке",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "sora-house-04",
+    "section": "Sora House",
+    "ratio": "3:2",
+    "image_url": "https://www.tomorrowsway.com/contents/wp-content/uploads/2021/05/IMG_3281-scaled.jpg",
+    "source_url": "https://www.tomorrowsway.com/contents/%E5%BB%BA%E7%AF%89%E4%BA%8B%E6%A5%AD/%E7%84%BC%E6%9D%89%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%AE%9F%E4%BE%8B/",
+    "description": "Крупный план обожжённого японского кедра, выраженная фактура",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "sora-house-05",
+    "section": "Sora House",
+    "ratio": "4:5",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/ml0222-spe-01-02-6850000fe9966.jpg",
+    "source_url": "https://www.modernliving.jp/house-interior/house/a65002580/symboltree-202506/",
+    "description": "Крошечный внутренний дворик с одним деревом",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "sora-house-06",
+    "section": "Sora House",
+    "ratio": "16:9",
+    "image_url": "https://www.ac-aa.com/works/img_works/074_003.png",
+    "source_url": "https://www.ac-aa.com/works/detail.php?id=74",
+    "description": "Японский тёмный дом с садовой дорожкой в сумерках",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "stone-and-light-01",
+    "section": "Stone & Light",
+    "ratio": "16:9",
+    "image_url": "https://rialto.apps.dils.com/assets/1389007c-8fc5-4bac-8ae8-44990ae08a83/living-pagano-49-living-dils-gallery-10/?format=webp&quality=80&width=1280",
+    "source_url": "https://dils.com/en/living/via-mario-pagano-n-49-milano/",
+    "description": "Старый миланский интерьер и ось проходов через комнаты",
+    "match": "Реальный интерьер в Милане; название другое",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "stone-and-light-02",
+    "section": "Stone & Light",
+    "ratio": "4:5",
+    "image_url": "https://i.pinimg.com/736x/23/81/82/238182296f9e221e61db311b4bbbcfdc.jpg",
+    "source_url": "https://pt.pinterest.com/pin/charlotte-taylor-on-instagram-villa-del-soffio-project-with-nicky-nicholaspreaud--521854675584889066/",
+    "description": "Мягкий дневной свет пересекает минималистскую комнату",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "stone-and-light-03",
+    "section": "Stone & Light",
+    "ratio": "1:1",
+    "image_url": "https://www.dalasten.se/cdn/shop/files/Gotland_Bro_Gotlandskalksten.jpg?v=1749022870&width=2160",
+    "source_url": "https://www.dalasten.se/",
+    "description": "Крупно: шлифованная каменная скамья у светлой стены",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "stone-and-light-04",
+    "section": "Stone & Light",
+    "ratio": "3:2",
+    "image_url": "https://images.trvl-media.com/lodging/106000000/105280000/105270500/105270471/df9c2826.jpg?impolicy=resizecrop&ra=fill&rh=575&rw=575",
+    "source_url": "https://www.hoteles.com/en/ho3369655072/casa-da-suite-mirabello-milan-italy/",
+    "description": "Тонкая металлическая лестница к антресоли, Милан",
+    "match": "Реальный интерьер в Милане; название другое",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "stone-and-light-05",
+    "section": "Stone & Light",
+    "ratio": "4:5",
+    "image_url": "https://media-assets.ad-italia.it/photos/6453bfea08a4e08275eda4d3/master/w_1024%2Cc_limit/CorreggioLow-20.jpg",
+    "source_url": "https://www.ad-italia.it/gallery/pareti-colorate-appartamento-160-m2-milano-foto/",
+    "description": "Прямоугольный проём в толще светлой стены",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "stone-and-light-06",
+    "section": "Stone & Light",
+    "ratio": "16:9",
+    "image_url": "https://www.internimagazine.com/content/uploads/2020/11/new02182-2_alta.jpg",
+    "source_url": "https://www.internimagazine.com/design/projects/project_architecture_interiors/home-sweet-care/",
+    "description": "Длинная последовательность помещений из старого входного зала",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "journal-light-and-the-hours",
+    "section": "Журнал",
+    "ratio": "3:2",
+    "image_url": "https://images.ctfassets.net/sj5ox37are2w/744rwabVB52tbYS2u6k1Vo/8f9e5e54cc35bff61d61f62e38aadcda/230629_0326_A4_size_ph_Marco_Anelli.jpg",
+    "source_url": "https://www.magazzino.art/about/magazzino/architecture",
+    "description": "Яркий диагональный луч в почти пустой белой комнате",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "journal-material-honesty",
+    "section": "Журнал",
+    "ratio": "3:2",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/654fa2c305e2870b1ae97364/1739058470075-UA08Q6B52V68ARXQ9PUT/GALEN_PARDEE_DAVIS_CALIFORNIA_WEB_%2B9.jpg",
+    "source_url": "https://copa.nyc/portfolio/three-cork-walls",
+    "description": "Честная фактура пробки и фанеры рядом с дверью",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "journal-the-art-of-subtraction",
+    "section": "Журнал",
+    "ratio": "3:2",
+    "image_url": "https://i.pinimg.com/736x/c6/a2/66/c6a2663a704d05deb56c6a9da9da841b.jpg",
+    "source_url": "https://www.pinterest.com/pin/claudio-silvestrin-tommaso-buzzi-fondazione-sandretto-re-rebaudengo-divisare--411235009703865327/",
+    "description": "Белая пустая поверхность и узкий световой проём",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "journal-designing-with-space",
+    "section": "Журнал",
+    "ratio": "3:2",
+    "image_url": "https://media.licdn.com/dms/image/v2/D4D12AQFRg52qHkDYQQ/article-cover_image-shrink_720_1280/B4DZoWmVH6GgAI-/0/1761315739401?e=2147483647&t=5m9F6lWYW-egeFgmHa_EKU3XIz1WHMFLa3hHbfZN8tM&v=beta",
+    "source_url": "https://de.linkedin.com/pulse/der-ethos-des-managements-dr-ronald-roos-e4cee",
+    "description": "Длинная мраморная колоннада и исчезающая перспектива",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "journal-concrete-glass-nature",
+    "section": "Журнал",
+    "ratio": "3:2",
+    "image_url": "https://cdn.themodernhouse.com/96f1d0ad/0fbca6e5c06e2635c38cb42459074cc7/a0OP600000C1mZxMAJ_N7_jpg/a0OP600000C1mZxMAJ_N7_webres.jpg",
+    "source_url": "https://www.themodernhouse.com/sales-list/pheasants",
+    "description": "Бетон и стекло рядом с водой и зеленью",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  },
+  {
+    "name": "journal-the-threshold",
+    "section": "Журнал",
+    "ratio": "3:2",
+    "image_url": "https://www.villaclea.com/uploads/2024/04/door-villa-clea.jpeg",
+    "source_url": "https://www.villaclea.com/space/",
+    "description": "Выразительный проём-порог, тёмная стена и свет за ней",
+    "match": "Визуальный аналог",
+    "license_status": "Требует проверки разрешения на использование"
+  }
+]
